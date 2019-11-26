@@ -3,9 +3,5 @@ Git is free software distributed under the GPL.
 the third commit
 Git tracks changes
 the stupid boss lesel
-<<<<<<< HEAD
-Creating a new branch is quick & simple
-=======
 
-
->>>>>>> other
+A new branch for text;
